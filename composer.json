@@ -1,0 +1,10 @@
+{
+    "name": "prince/checkers",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Prince\\Checkers\\": "src/"
+        }
+    },
+    "require": {}
+}
